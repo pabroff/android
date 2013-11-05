@@ -5,9 +5,6 @@
            fetch="https://android.googlesource.com/" />
 
   <remote  name="github"
-           fetch=".."/>
-
-  <remote  name="private"
            fetch="ssh://git@github.com" />
 
   <default revision="refs/tags/android-4.4_r1"
